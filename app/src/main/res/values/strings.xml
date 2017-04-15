@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MedCalculator</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="text_volume">Solution Volume, mL</string>
+    <string name="milligramms">mg</string>
+    <string name="milliliters">mL</string>
+    <string name="dose_in_vol">Dose in Volume, mg</string>
+    <string name="milligram">mg</string>
+    <string name="weight">Weight, kg</string>
+    <string name="kilogramm">kg</string>
+    <string name="dose_ordered">Dose ordered, mcg/kg/min</string>
+    <string name="mcg_kg_min">mcg/kg/min</string>
+    <string name="infusion_rate">Infusion rate</string>
+    <string name="go_button">Go!</string>
+</resources>
